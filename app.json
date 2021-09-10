@@ -151,7 +151,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.lisa* ```for commands```\n\n```pikachu🧚‍♂️```\n\n```coded by ameer suhail```\n\n```wa.me/919946432377```\n\n```https://www.instagram.com/ameer_.su_hail```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```lisa🧚‍♂️```\n\n```coded by salman dx```\n\n```wa.me/918129727300```\n\n```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
