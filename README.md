@@ -6,7 +6,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="IMG-20210908-WA0060.jpg" alt="GIF" width="210" height="200"/>
+<img src="IMG-20210908-WA0060.jpg" alt="GIF" width="210" height="180"/>
 </p>
  <p align="center">
 <a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
