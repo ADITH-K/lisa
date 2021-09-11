@@ -1,10 +1,3 @@
-/* Copyright (C) 2021 Salman dx
-CODDED salman dx
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-Lisa
-*/
-
 const Asena = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const {spawnSync} = require('child_process');
@@ -25,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'lisa Bot created by *salman dx*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'lisa Bot created by *Salman dx*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
@@ -43,10 +36,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'lisa Bot created by *salman dx*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'lisa Bot created by *Salman dx*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.PLK + '\n\n--------------------', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS*', MessageType.text);
         }
     }));
 }
