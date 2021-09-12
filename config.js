@@ -40,7 +40,7 @@ module.exports = {
     DISSTICKER: process.env.DISABLE_STICKER === undefined ? false : process.env.DISABLE_STICKER,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
-    GIF_WEL: process.env.GIF_WEL === undefined ? 'https://i.imgur.com/I6zw2j9.mp4' : process.env.GIF_WEL,
+    GIF_WEL: process.env.GIF_WEL === undefined ? 'https://i.imgur.com/IV2a0cG.mp4' : process.env.GIF_WEL,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/NTar8dQ.mp4' : process.env.GIF_BYE,
     BOTPLK: process.env.BOT_NAME === undefined ? 'PIKACHU BOT' : process.env.BOT_NAME,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
