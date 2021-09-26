@@ -1,5 +1,5 @@
-/* Copyright (C) 2020 Yusuf Usta.
-Reedited by hisham & salman 
+/* Copyright (C) 2021 vishnu-kayamkulam.
+vishnu-memanakizhakathil/Meenakshi
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
@@ -46,6 +46,7 @@ module.exports = {
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
     UNBLOCKMSG: process.env.UNBLOCK_MESSAGE === undefined ? 'default' : process.env.UNBLOCK_MESSAGE,
     UNMUTEMSG: process.env.UNMUTE_MESSAGE === undefined ? 'default' : process.env.UNMUTE_MESSAGE,
+    LISA: process.env.BGM_DURATION === undefined ? '31996800' : process.env.BGM_DURATION,
     WORKTYPE: process.env.WORK_TYPE === undefined ? 'private' : process.env.WORK_TYPE,
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
