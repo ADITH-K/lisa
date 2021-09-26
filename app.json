@@ -41,6 +41,11 @@
             "required": true,
             "value": "false"
         },
+         "BGM_DURATION": {
+            "description": "Fake audio durations for BGM playing",
+            "required": false,
+            "value": "31996800"
+        },
         "AUTO_BİO": {
             "description": "Duruma otomatik tarih ve zaman eklemek için true yapın. Set true for auto date, time in biography.",
             "required": true,
