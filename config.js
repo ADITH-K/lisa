@@ -39,7 +39,7 @@ module.exports = {
     SONGU: process.env.SONGU === undefined ? 'Uploading aanu wait...' : process.env.SONGU,
     DISSTICKER: process.env.DISABLE_STICKER === undefined ? false : process.env.DISABLE_STICKER,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
-    FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
+    MEENU_AI: process.env.MEENU_AI === undefined ? 'false' : process.env.MEENU_AI,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://i.imgur.com/IV2a0cG.mp4' : process.env.GIF_WEL,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/NTar8dQ.mp4' : process.env.GIF_BYE,
     BOTPLK: process.env.BOT_NAME === undefined ? 'PIKACHU BOT' : process.env.BOT_NAME,
